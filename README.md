@@ -106,7 +106,7 @@ Steps Performed:
 
 ## 📊 5. Power BI Dashboard Overview
 
-## 📊 Dashboard 1
+### 📊 Dashboard 1
  ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20D%201.png) 
 
  Key Insights
@@ -119,7 +119,7 @@ Steps Performed:
 
 - Lower salary band (0–40K) has highest attrition (22%). <br><br>
 
- ## 📊 Dashboard 2
+ ### 📊 Dashboard 2
  ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20d%202.png) 
 
  Key Insights
@@ -134,7 +134,7 @@ Steps Performed:
 
 
 
-## 🧠 7. Business Recommendations
+## 🧠 6. Business Recommendations
 
 Based on analysis:
 
@@ -144,6 +144,13 @@ Based on analysis:
 4️⃣ Retention plans for 10+ year employees<br>
 5️⃣ Quarterly engagement surveys<br>
 6️⃣ Proactive monitoring of high-risk employees
+
+
+## 📌 7. Conclusion
+
+The analysis shows a 19% attrition rate, driven primarily by tenure, job role, salary band, and job satisfaction. Long-tenure employees, managers, and lower salary groups face higher turnover risk.
+
+By identifying 144 high-risk employees, this project demonstrates how data-driven insights can enable proactive retention strategies and strengthen workforce stability.
 
 
 ## About Me
