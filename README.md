@@ -28,6 +28,8 @@ This project demonstrates:
 
 # 3. Dataset Overview
 
+HR Dataset: <a href="https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20DATASET.csv">Dataset</a>
+
 - Total Employees: 1000
 
 - Active Employees: 807
