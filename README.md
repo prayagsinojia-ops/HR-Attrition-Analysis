@@ -38,7 +38,7 @@ This project demonstrates:
 
 📌 Key Features Used
 
--Age
+- Age
 
 - Gender
 
@@ -63,3 +63,36 @@ This project demonstrates:
 - Business Travel
 
 - Education Level
+
+
+# 4. Data Cleaning & EDA
+📓 File: -<a href="https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20Analysis%20Notebook.ipynb"></a>
+Steps Performed:
+
+- Checked missing values
+
+- Created Age Groups
+
+- Created Years Band
+
+- Created Salary Bands
+
+- Created Risk Category logic
+
+- Univariate & Bivariate analysis
+
+- Distribution plots & countplots
+
+- Correlation understanding
+
+🛠 Tools Used:
+
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Seaborn
