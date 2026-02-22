@@ -19,7 +19,7 @@ This project demonstrates:
 - Strategic HR recommendations
 
 
-# Business Objective
+## 🎯 2. Business Objective
 - Why are employees leaving?
 
 - Which departments are most affected?
@@ -29,7 +29,7 @@ This project demonstrates:
 - Can we identify high-risk employees before they leave?
 
 
-# 3. Dataset Overview
+## 📁 3. Dataset Overview
 
 HR Dataset: <a href="https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20DATASET.csv">Dataset</a>
 
@@ -70,7 +70,7 @@ HR Dataset: <a href="https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/
 - Education Level
 
 
-# 4. Data Cleaning & EDA
+## 🧹 4. Data Cleaning & EDA
 📓 File: <a href="https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20Analysis%20Notebook.ipynb">Analysis NOtebook</a>
 
 Steps Performed:
@@ -102,3 +102,7 @@ Steps Performed:
 - Matplotlib
 
 - Seaborn
+
+
+## 📊 5. Power BI Dashboard Overview
+ ![Dashboard](HR D 1.png) <br><br>
