@@ -107,7 +107,7 @@ Steps Performed:
 ## 📊 5. Power BI Dashboard Overview
 
 📊 Dashboard 1
- ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20D%201.png) <br><br>
+ ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20D%201.png) 
 
  Key Insights
 
@@ -117,10 +117,10 @@ Steps Performed:
 
 - Managers show highest attrition (23%).
 
-- Lower salary band (0–40K) has highest attrition (22%).
+- Lower salary band (0–40K) has highest attrition (22%). <br>
 
  📊 Dashboard 2
- ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20d%202.png) <br><br>
+ ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20d%202.png) 
 
  Key Insights
 
@@ -130,7 +130,7 @@ Steps Performed:
 
 - Manager rating impacts retention (~22% attrition at mid ratings).
 
-- Overtime is not a major attrition driver.
+- Overtime is not a major attrition driver.<br>
 
 
 
