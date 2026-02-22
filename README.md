@@ -119,7 +119,7 @@ Steps Performed:
 
 - Lower salary band (0–40K) has highest attrition (22%). <br><br>
 
- ### 📊 Dashboard 2
+ ### 📊 Dashboard 2 
  ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20d%202.png) 
 
  Key Insights
