@@ -24,3 +24,42 @@ This project demonstrates:
 - Does salary, satisfaction, or experience impact attrition?
 
 - Can we identify high-risk employees before they leave?
+
+
+# 3. Dataset Overview
+
+- Total Employees: 1000
+
+- Active Employees: 807
+
+- Employees Left: 193
+
+- Overall Attrition Rate: 19%
+
+📌 Key Features Used
+
+-Age
+
+- Gender
+
+- Department
+
+- Job Role
+
+- Work Location
+
+- Years at Company
+
+- Salary Band
+
+- Job Satisfaction
+
+- Manager Rating
+
+- Work-Life Balance
+
+- Overtime
+
+- Business Travel
+
+- Education Level
