@@ -106,3 +106,18 @@ Steps Performed:
 
 ## 📊 5. Power BI Dashboard Overview
  ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20D%201.png) <br><br>
+ 
+ ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20d%202.png) <br><br>
+
+
+
+## 🧠 7. Business Recommendations
+
+Based on analysis:
+
+1️⃣ Improve job satisfaction programs
+2️⃣ Leadership development training
+3️⃣ Salary review for lower bands
+4️⃣ Retention plans for 10+ year employees
+5️⃣ Quarterly engagement surveys
+6️⃣ Proactive monitoring of high-risk employees
