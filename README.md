@@ -105,4 +105,4 @@ Steps Performed:
 
 
 ## 📊 5. Power BI Dashboard Overview
- ![Dashboard](HR D 1.png) <br><br>
+ ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20D%201.png) <br><br>
