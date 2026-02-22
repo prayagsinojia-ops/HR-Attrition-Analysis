@@ -71,7 +71,7 @@ HR Dataset: <a href="https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/
 
 
 ## 🧹 4. Data Cleaning & EDA
-📓 File: <a href="https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20Analysis%20Notebook.ipynb">Analysis NOtebook</a>
+📓 File: <a href="https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20Analysis%20Notebook.ipynb">Analysis Notebook</a>
 
 Steps Performed:
 
