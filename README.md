@@ -104,6 +104,30 @@ Steps Performed:
 - Seaborn
 
 
+
+## 📊 KPI Highlights
+
+- Total Workforce: 1000 employees currently analyzed.
+
+- Active Employees: 807 employees retained.
+
+- Attrition Count: 193 employees exited the organization.
+
+- Attrition Rate: 19% overall turnover rate.
+
+- Average Salary (Leavers): 85.65K average income of exited employees.
+
+- Average Job Satisfaction: 2.48 indicates below-mid satisfaction among leavers.
+
+- Average Manager Rating: 2.47 reflects moderate leadership rating impact.
+
+- Average Tenure Before Exit: 6.59 years.
+
+- High-Risk Employees Identified: 144 employees flagged using risk logic.
+
+- High-Risk Attrition Rate: 19% attrition within vulnerable segment.
+
+
 ## 📊 5. Power BI Dashboard Overview
 
 ### Dashboard 1 
