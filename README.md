@@ -105,9 +105,32 @@ Steps Performed:
 
 
 ## 📊 5. Power BI Dashboard Overview
+
+📊 Dashboard 1
  ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20D%201.png) <br><br>
- 
+
+ Key Insights
+
+- Overall Attrition: 19% (193 employees left).
+
+- 10+ years employees have highest attrition (27%).
+
+- Managers show highest attrition (23%).
+
+- Lower salary band (0–40K) has highest attrition (22%).
+
+ 📊 Dashboard 2
  ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20d%202.png) <br><br>
+
+ Key Insights
+
+- 144 employees identified as High Risk.
+
+- Low Job Satisfaction (Level 2) drives highest attrition (22%).
+
+- Manager rating impacts retention (~22% attrition at mid ratings).
+
+- Overtime is not a major attrition driver.
 
 
 
@@ -121,3 +144,20 @@ Based on analysis:
 4️⃣ Retention plans for 10+ year employees
 5️⃣ Quarterly engagement surveys
 6️⃣ Proactive monitoring of high-risk employees
+
+
+## About Me
+Aspiring Data Analyst skilled in Python, SQL, Power BI, and Business Analytics.
+Actively building real-world analytics projects focused on business problem-solving.
+
+Contact: 97231 00943 <br>
+Gmail: prayagsinojia@gmail.com <br>
+prayagsinojiya-<a href='https://www.linkedin.com/in/prayagsinojiya/'>Linkdin</a><br><br><br>
+
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-EDA-orange?logo=jupyter)
+![Project Type](https://img.shields.io/badge/Type-Business%20Analytics-purple)
+![Status](https://img.shields.io/badge/Status-Completed-success)
