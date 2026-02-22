@@ -128,6 +128,7 @@ Steps Performed:
 - High-Risk Attrition Rate: 19% attrition within vulnerable segment.
 
 
+ 
 ## 📊 5. Power BI Dashboard Overview
 
 ### Dashboard 1 
@@ -141,7 +142,7 @@ Steps Performed:
 
 - Managers show highest attrition (23%).
 
-- Lower salary band (0–40K) has highest attrition (22%). <br><br>
+- Lower salary band (0–40K) has highest attrition (22%). <br>
 
  ### 📊 Dashboard 2 
  ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20d%202.png) 
