@@ -1,4 +1,7 @@
 # HR-Attrition-Analysis
+
+🧠 1. Project Introduction
+
 Employee attrition is a critical HR challenge that impacts hiring cost, productivity, and organizational stability.
 
 In this project, I performed a complete HR Attrition Analysis using Python (EDA) and Power BI, identifying key drivers behind employee turnover and building a high-risk employee detection system.
