@@ -1,6 +1,6 @@
 # HR-Attrition-Analysis
 
-###🧠 1. Project Introduction
+### 🧠 1. Project Introduction
 
 Employee attrition is a critical HR challenge that impacts hiring cost, productivity, and organizational stability.
 
