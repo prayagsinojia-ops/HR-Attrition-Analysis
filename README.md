@@ -16,7 +16,7 @@ This project demonstrates:
 
 - Insight extraction
 
-- Strategic HR recommendations
+-<br> Strategic HR recommendations
 
 
 ## 🎯 2. Business Objective
@@ -27,7 +27,7 @@ This project demonstrates:
 - Does salary, satisfaction, or experience impact attrition?
 
 - Can we identify high-risk employees before they leave?
-
+<br>
 
 ## 📁 3. Dataset Overview
 
@@ -68,7 +68,7 @@ HR Dataset: <a href="https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/
 - Business Travel
 
 - Education Level
-
+<br>
 
 ## 🧹 4. Data Cleaning & EDA
 📓 File: <a href="https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20Analysis%20Notebook.ipynb">Analysis NOtebook</a>
@@ -102,7 +102,7 @@ Steps Performed:
 - Matplotlib
 
 - Seaborn
-
+<br>
 
 ## 📊 5. Power BI Dashboard Overview
 
@@ -131,7 +131,7 @@ Steps Performed:
 - Manager rating impacts retention (~22% attrition at mid ratings).
 
 - Overtime is not a major attrition driver.<br><br>
-
+<br>
 
 
 ## 🧠 6. Business Recommendations
@@ -144,7 +144,7 @@ Based on analysis:
 4️⃣ Retention plans for 10+ year employees<br>
 5️⃣ Quarterly engagement surveys<br>
 6️⃣ Proactive monitoring of high-risk employees
-
+<br>
 
 ## 📌 7. Conclusion
 
