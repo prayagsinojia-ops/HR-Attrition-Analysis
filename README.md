@@ -132,7 +132,7 @@ Steps Performed:
 ## 📊 5. Power BI Dashboard Overview
 
 ### Dashboard 1 
- ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20D%201.png) 
+ ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%201.png) 
 
  Key Insights
 
@@ -145,7 +145,7 @@ Steps Performed:
 - Lower salary band (0–40K) has highest attrition (22%). <br>
 
  ### 📊 Dashboard 2 
- ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%20d%202.png) 
+ ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/HR%202.png) 
 
  Key Insights
 
