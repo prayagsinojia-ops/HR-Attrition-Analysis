@@ -157,6 +157,8 @@ Steps Performed:
 
 - Overtime is not a major attrition driver.<br><br>
 
+### 📊 Dashboard Video
+ ![Dashboard](https://github.com/prayagsinojia-ops/HR-Attrition-Analysis/blob/main/2026-03-02%2007-34-36.mp4) 
 
 
 ## 🧠 6. Business Recommendations
